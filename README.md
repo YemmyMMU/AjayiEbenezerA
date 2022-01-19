@@ -1,5 +1,3 @@
-# AjayiEbenezerA
-My webpage
 #### MMU Graduate Research Assistant / PhD Student 
 ![Graduate Research Assistant/ PhD Student ](https://avatars.githubusercontent.com/u/32791222?v=4)
 # About me
